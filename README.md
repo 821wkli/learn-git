@@ -115,8 +115,8 @@ In this step, we will push code to GitHub.
     This tells your computer: 'Hey, the next time code is pushed to GitHub, take all of this code with it.' The message also specifies what GitHub will display in relation to this commit.
 
     </details>
-* Run `git config credential.helper store`
- * <details>
+* Run `git config credential.helper store` .
+  * <details>
 
     <summary> What does this do? </summary>
 
